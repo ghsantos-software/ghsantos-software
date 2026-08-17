@@ -22,7 +22,7 @@ Trabalho com **AWS**, **Python/FastAPI** e automação (inclusive AIOps), sobre 
 | **Containers & Orquestração** | Docker, Kubernetes e Helm — build, deploy e escala |
 | **IaC & CI/CD** | Terraform, Ansible, GitHub Actions e ArgoCD — provisionamento e entrega |
 | **Observabilidade & SRE** | Prometheus, Grafana, OpenTelemetry, SLOs e confiabilidade |
-| **Cloud & Plataforma** | AWS (intermediário), Platform Engineering e FinOps |
+| **Cloud & Plataforma** | AWS (básico), Platform Engineering e FinOps |
 | **Automação & Dev** | Python, FastAPI e Bash — automação de operações e AIOps |
 
 ---

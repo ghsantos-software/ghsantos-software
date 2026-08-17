@@ -6,7 +6,7 @@
 
 Foco em **DevOps** — construção, deploy e operação de sistemas com containers, Kubernetes,<br/>
 CI/CD, infraestrutura como código e observabilidade.<br/>
-Trabalho com **AWS**, **Python/FastAPI** e automação (inclusive AIOps), sobre uma base de **Linux** e redes.
+Trabalho com **AWS**, **Python/FastAPI** e automação, sobre uma base de **Linux** e redes.
 
 [![Website](https://img.shields.io/badge/Website-ghdev.tec.br-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://ghdev.tec.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-4b7518337)

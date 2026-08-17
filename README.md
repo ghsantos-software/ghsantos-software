@@ -59,7 +59,7 @@ Métricas, logs e traces com Prometheus, Grafana e OpenTelemetry — SLOs, error
 ![DORA · SPACE](https://img.shields.io/badge/DORA%20%C2%B7%20SPACE-B45309?style=flat-square)
 
 ### Cloud &amp; Development
-AWS (intermediário), Platform Engineering e FinOps; automação e serviços com Python e FastAPI, sobre Linux — e uma base leve de redes.
+AWS, Platform Engineering e FinOps; automação e serviços com Python e FastAPI, sobre Linux — e uma base leve de redes.
 
 ![AWS](https://img.shields.io/badge/AWS-0E7490?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-0E7490?style=flat-square&logo=linux&logoColor=white)

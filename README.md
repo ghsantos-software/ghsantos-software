@@ -2,13 +2,6 @@
 
 # Guilherme Henrique
 
-**Back-end & DevOps** &nbsp;·&nbsp; Python · Docker · CI/CD · AWS · Terraform
-
-Construo APIs e as coloco no ar com um fluxo de entrega automatizado —
-testes, imagem versionada e deploy a cada merge.
-
-📍 Aberto a oportunidades em **Back-end / DevOps**
-
 [![Website](https://img.shields.io/badge/Website-ghdev.tec.br-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://ghdev.tec.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-4b7518337)
 

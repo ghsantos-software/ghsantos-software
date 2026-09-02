@@ -14,10 +14,11 @@ imagem versionada e deploy automático.
 
 ## Sobre
 
-Analista e desenvolvedor de sistemas com carreira voltada para **DevOps** —
+Estudante, analista e desenvolvedor de sistemas com carreira voltada para **DevOps** —
 automação de entrega, infraestrutura como código, containers e cloud.
 **Certificado em AWS e Kubernetes**, com vivência no Reino Unido para imersão em
-inglês e especialização contínua pelas principais plataformas de ensino da área.
+inglês, gruduando em análise e desenvolvimento de sistemas  
+e especialização contínua pelas principais plataformas de ensino da área.
 
 Meu foco é o ciclo completo: código versionado, testado e entregue de forma
 automática, com infraestrutura reproduzível e observável. É o que aplico no

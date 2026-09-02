@@ -4,8 +4,6 @@
 
 Student focused on **DevOps**, currently building a practical foundation in cloud, automation, containers, CI/CD, Infrastructure as Code, and Kubernetes. Developing hands-on knowledge with AWS, Docker, Terraform, Ansible, GitHub Actions, Kubernetes, Linux, Bash, and Python/FastAPI. Focused on learning through practical projects and continuously developing skills in modern DevOps practices.
 
-🌐 [ghdev.tec.br](https://ghdev.tec.br/)  ·  💼 [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-4b7518337)
-
 ---
 
 ### 🧰 Languages and Tools

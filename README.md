@@ -2,7 +2,7 @@
 
 # Guilherme Henrique
 
-**DevOps Engineer** &nbsp;·&nbsp; Cloud · Automação · CI/CD · Kubernetes
+**DevOps Student** &nbsp;·&nbsp; Cloud · Automação · CI/CD · Kubernetes
 
 Transformo processo manual em pipeline: do commit à produção, com testes,
 imagem versionada e deploy automático.

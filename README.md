@@ -12,8 +12,6 @@ imagem versionada e deploy automático.
 
 </div>
 
----
-
 ## Sobre
 
 Analista e desenvolvedor de sistemas com carreira voltada para **DevOps** —

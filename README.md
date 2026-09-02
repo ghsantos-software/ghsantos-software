@@ -7,8 +7,6 @@
 Transformo processo manual em pipeline: do commit à produção, com testes,
 imagem versionada e deploy automático.
 
-📍 Aberto a oportunidades em **DevOps / Cloud**
-
 [![Website](https://img.shields.io/badge/Website-ghdev.tec.br-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://ghdev.tec.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Henrique-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-4b7518337)
 
@@ -26,20 +24,6 @@ inglês e especialização contínua pelas principais plataformas de ensino da �
 Meu foco é o ciclo completo: código versionado, testado e entregue de forma
 automática, com infraestrutura reproduzível e observável. É o que aplico no
 projeto abaixo — e o padrão que levo para qualquer time.
-
----
-
-## Projeto em destaque
-
-### [fastapi-py](https://github.com/ghsantos-software/fastapi-py) &nbsp;·&nbsp; [demo ao vivo ↗](https://fastapi-py-ptd6.onrender.com/docs)
-
-API REST com pipeline de entrega de ponta a ponta — do pull request à produção em um único merge.
-
-- **CI/CD completo** — cada PR roda lint, testes com cobertura e migrações; cada merge na `main` publica a imagem no GitHub Container Registry e dispara o deploy automático.
-- **PostgreSQL** com migrações versionadas (Alembic), aplicadas na subida do container.
-- **Infraestrutura como código** — Terraform para AWS (ECR, EC2, IAM), formatado e validado no CI.
-- **`main` protegida** — nada entra sem pull request com todos os checks verdes.
-- **Dependabot, SonarCloud e GitGuardian** em cada pull request.
 
 ---
 
@@ -83,13 +67,6 @@ API REST com pipeline de entrega de ponta a ponta — do pull request à produç
 ![FastAPI](https://img.shields.io/badge/FastAPI-1F6FEB?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F6FEB?style=flat-square&logo=postgresql&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-1F6FEB?style=flat-square&logo=pytest&logoColor=white)
-
----
-
-## Certificações
-
-- **AWS** — _[nome da certificação]_
-- **Kubernetes** — _[nome da certificação]_
 
 ---
 

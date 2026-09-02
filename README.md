@@ -21,8 +21,7 @@ inglês, gruduando em análise e desenvolvimento de sistemas
 e especialização contínua pelas principais plataformas de ensino da área.
 
 Meu foco é o ciclo completo: código versionado, testado e entregue de forma
-automática, com infraestrutura reproduzível e observável. É o que aplico no
-projeto abaixo — e o padrão que levo para qualquer time.
+automática, com infraestrutura reproduzível e observável.
 
 ---
 

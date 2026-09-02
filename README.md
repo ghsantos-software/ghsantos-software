@@ -1,8 +1,10 @@
 # Guilherme Henrique
 
-**`DevOps Engineer in Training`**
+**`DevOps Student`**
 
-DevOps professiona in development, focused on building and automating modern infrastructure and software delivery workflows. Hands-on experience with containers, CI/CD pipelines, Infrastructure as Code, cloud environments, and Kubernetes. Skilled in AWS, Docker, Terraform, Ansible, GitHub Actions, Kubernetes, Helm, Prometheus, Grafana, Linux, Bash, and Python/FastAPI. Currently focused on strengthening practical DevOps skills through projects involving automated deployments, reproducible infrastructure, observability, and cloud-native architectures.
+Student focused on **DevOps**, currently building a practical foundation in cloud, automation, containers, CI/CD, Infrastructure as Code, and Kubernetes. Developing hands-on knowledge with AWS, Docker, Terraform, Ansible, GitHub Actions, Kubernetes, Linux, Bash, and Python/FastAPI. Focused on learning through practical projects and continuously developing skills in modern DevOps practices.
+
+🌐 [ghdev.tec.br](https://ghdev.tec.br/)  ·  💼 [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-4b7518337)
 
 ---
 
@@ -25,4 +27,5 @@ DevOps professiona in development, focused on building and automating modern inf
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
 <br />
+
 

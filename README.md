@@ -44,14 +44,11 @@ automática, com infraestrutura reproduzível e observável.
 &nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1F6FEB?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-1F6FEB?style=flat-square&logo=gitlab&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-1F6FEB?style=flat-square)
 
 **Observabilidade**
 &nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-1F6FEB?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-1F6FEB?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-1F6FEB?style=flat-square)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1F6FEB?style=flat-square&logo=opentelemetry&logoColor=white)
 
 **Linguagens & Sistema**
 &nbsp;

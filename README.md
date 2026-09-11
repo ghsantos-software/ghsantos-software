@@ -2,7 +2,7 @@
 
 **`DevOps Student`**
 
-Estudante com foco em **DevOps**, atualmente construindo uma base prática em nuvem, automação, contêineres, CI/CD, Infraestrutura como Código e Kubernetes. Desenvolvendo conhecimento prático com AWS, Docker, Terraform, Ansible, GitHub Actions, Kubernetes, Linux, Bash e Python/FastAPI. Focado em aprender por meio de projetos práticos e no desenvolvimento contínuo de habilidades em práticas modernas de DevOps.
+Estudante com foco em **DevOps**, atualmente construindo uma base prática em nuvem, automação, contêineres, CI/CD, Infraestrutura como Código e Kubernetes. Desenvolvendo conhecimento prático com AWS, Docker, Terraform, Ansible, GitHub Actions, Kubernetes, Linux, Bash e Java. Focado em aprender por meio de projetos práticos e no desenvolvimento contínuo de habilidades em práticas modernas de DevOps.
 
 ---
 

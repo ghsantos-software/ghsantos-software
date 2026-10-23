@@ -2,9 +2,11 @@
 
 **`Backend Student`**
 
-Estudante de **Java e Spring**, com foco no desenvolvimento de aplicações backend e na construção de uma base sólida em desenvolvimento de software. Possuo também conhecimentos práticos em **DevOps**, incluindo Docker, CI/CD, Kubernetes, Terraform, Linux, Prometheus e Grafana.
+Estudante de **Java e Spring Boot**, com foco no desenvolvimento backend, construção de APIs REST e aplicação de boas práticas de desenvolvimento de software.
 
-Busco integrar desenvolvimento backend e práticas DevOps por meio de projetos práticos, explorando desde a criação de APIs com **Java e Spring** até sua containerização, automação de pipelines e monitoramento. Atualmente, sigo aprimorando meus conhecimentos em Java, Spring e tecnologias de infraestrutura e automação.
+Tenho interesse em arquitetura de aplicações, integração com bancos de dados, segurança, autenticação e desenvolvimento de sistemas com Java. Também possuo conhecimentos em **DevOps e infraestrutura**, incluindo Git, Docker, CI/CD, Kubernetes e fundamentos de Linux, que complementam minha visão sobre o ciclo de desenvolvimento e entrega de software.
+
+Atualmente, foco em aprimorar minhas habilidades em Java, Spring Boot e desenvolvimento de APIs por meio de projetos práticos, buscando evoluir continuamente na construção de aplicações backend bem estruturadas, seguras e manuteníveis.
 
 
 ---
